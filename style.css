@@ -44,7 +44,7 @@ max-width: 45%;
 
 footer p{
   position: absolute;
-  left: 86%;
+  /* left: 86%; */
   padding-bottom: 15px;
   color: midnightblue;
 
@@ -91,6 +91,6 @@ width: 500px;
 @media (max-width:1000px) {
   footer>p{
 
-bottom: auto;
+right: 160px;
   }
 }
