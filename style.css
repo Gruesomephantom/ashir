@@ -91,6 +91,6 @@ width: 500px;
 @media (max-width:1000px) {
   footer>p{
 
-left: 185px;
+bottom: auto;
   }
 }
